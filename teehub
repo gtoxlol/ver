@@ -1,0 +1,6 @@
+Window:Tag({
+    Title = "v0.1.2b",
+    Icon = "github",
+    Color = Color3.fromHex("#30ff6a"),
+    Radius = 10, -- from 0 to 13
+})
